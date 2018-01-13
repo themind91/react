@@ -5,7 +5,7 @@ import YTSearch from 'youtube-api-search'
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail'
-const youtubeAPIKey = "AIzaSyCyt9TFPAmOO5xDPbFvSCghIfHaMJGbq_E";
+const youtubeAPIKey = "you need to get an API KEY";
 // create a new component it should produce some html
 
 
